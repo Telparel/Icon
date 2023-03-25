@@ -1,0 +1,6 @@
+e.lw { font-size: 60px; }
+.note {font-size: 24px; border-radius: 40px; border-style: solid; text-align: center; color: #7A2BE2;}
+.icon {display: block; width: 30px;height: 30px; background-size: 30px 30 px;}
+i {
+	background-size: 30px 30 px;
+}
